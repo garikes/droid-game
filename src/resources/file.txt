@@ -1,0 +1,118 @@
+null[1;30m<---------- ROUND 1 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-30[1;90m points.
+Van Darkholme managed to reject [1;92m+2[1;90m points.
+Van Darkholme's current health is 972
+[1;30m<---------- ROUND 2 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-46[1;90m points.
+Billy Herrington managed to reject [1;92m+17[1;90m points.
+Billy Herrington's current health is 732
+Van Darkholme[1;92m +6
+[1;90m[1;30m<---------- ROUND 3 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-176[1;90m points.
+Van Darkholme managed to reject [1;92m+4[1;90m points.
+Van Darkholme's current health is 806
+[1;30m<---------- ROUND 4 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-62[1;90m points.
+Billy Herrington managed to reject [1;92m+18[1;90m points.
+Billy Herrington's current health is 688
+Van Darkholme[1;92m +54
+[1;90m[1;30m<---------- ROUND 5 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-156[1;90m points.
+Van Darkholme managed to reject [1;92m+7[1;90m points.
+Van Darkholme's current health is 711
+[1;30m<---------- ROUND 6 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-48[1;90m points.
+Billy Herrington managed to reject [1;92m+13[1;90m points.
+Billy Herrington's current health is 653
+Van Darkholme[1;92m +3
+[1;90m[1;30m<---------- ROUND 7 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-57[1;90m points.
+Van Darkholme managed to reject [1;92m+9[1;90m points.
+Van Darkholme's current health is 666
+[1;30m<---------- ROUND 8 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-22[1;90m points.
+Billy Herrington managed to reject [1;92m+1[1;90m points.
+Billy Herrington's current health is 632
+Van Darkholme[1;92m +5
+[1;90m[1;30m<---------- ROUND 9 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-108[1;90m points.
+Van Darkholme managed to reject [1;92m+10[1;90m points.
+Van Darkholme's current health is 573
+[1;30m<---------- ROUND 10 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-41[1;90m points.
+Billy Herrington managed to reject [1;92m+19[1;90m points.
+Billy Herrington's current health is 610
+Van Darkholme[1;92m +22
+[1;90m[1;30m<---------- ROUND 11 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-82[1;90m points.
+Van Darkholme managed to reject [1;92m+5[1;90m points.
+Van Darkholme's current health is 518
+[1;30m<---------- ROUND 12 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-112[1;90m points.
+Billy Herrington managed to reject [1;92m+10[1;90m points.
+Billy Herrington's current health is 508
+Van Darkholme[1;92m +17
+[1;90m[1;30m<---------- ROUND 13 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-150[1;90m points.
+Van Darkholme managed to reject [1;92m+5[1;90m points.
+Van Darkholme's current health is 390
+[1;30m<---------- ROUND 14 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-48[1;90m points.
+Billy Herrington managed to reject [1;92m+7[1;90m points.
+Billy Herrington's current health is 467
+Van Darkholme[1;92m +32
+[1;90m[1;30m<---------- ROUND 15 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-6[1;90m points.
+Van Darkholme managed to reject [1;92m+6[1;90m points.
+Van Darkholme's current health is 422
+[1;30m<---------- ROUND 16 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-62[1;90m points.
+Billy Herrington managed to reject [1;92m+11[1;90m points.
+Billy Herrington's current health is 416
+Van Darkholme[1;92m +79
+[1;90m[1;30m<---------- ROUND 17 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-180[1;90m points.
+Van Darkholme managed to reject [1;92m+1[1;90m points.
+Van Darkholme's current health is 322
+[1;30m<---------- ROUND 18 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-60[1;90m points.
+Billy Herrington managed to reject [1;92m+5[1;90m points.
+Billy Herrington's current health is 361
+Van Darkholme[1;92m +92
+[1;90m[1;30m<---------- ROUND 19 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-175[1;90m points.
+Van Darkholme managed to reject [1;92m+5[1;90m points.
+Van Darkholme's current health is 244
+[1;30m<---------- ROUND 20 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-121[1;90m points.
+Billy Herrington managed to reject [1;92m+7[1;90m points.
+Billy Herrington's current health is 247
+Van Darkholme[1;92m +89
+[1;90m[1;30m<---------- ROUND 21 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-185[1;90m points.
+Van Darkholme managed to reject [1;92m+6[1;90m points.
+Van Darkholme's current health is 154
+[1;30m<---------- ROUND 22 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-75[1;90m points.
+Billy Herrington managed to reject [1;92m+6[1;90m points.
+Billy Herrington's current health is 178
+Van Darkholme[1;92m +83
+[1;90m[1;30m<---------- ROUND 23 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-119[1;90m points.
+Van Darkholme managed to reject [1;92m+0[1;90m points.
+Van Darkholme's current health is 118
+[1;30m<---------- ROUND 24 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-87[1;90m points.
+Billy Herrington managed to reject [1;92m+17[1;90m points.
+Billy Herrington's current health is 108
+Van Darkholme[1;92m +46
+[1;90m[1;30m<---------- ROUND 25 --------->
+[1;90mBilly Herrington damaged Van Darkholme with [1;91m-37[1;90m points.
+Van Darkholme managed to reject [1;92m+7[1;90m points.
+Van Darkholme's current health is 134
+[1;30m<---------- ROUND 26 --------->
+[1;90mVan Darkholme damaged Billy Herrington with [1;91m-123[1;90m points.
+Billy Herrington managed to reject [1;92m+11[1;90m points.
+Billy Herrington's current health is 0
+Van Darkholme[1;92m +56
+[1;90m[1;33mVan Darkholme WINS!
